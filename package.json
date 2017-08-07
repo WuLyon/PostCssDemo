@@ -1,0 +1,28 @@
+{
+  "name": "postcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WuLyon/PostCssDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WuLyon/PostCssDemo/issues"
+  },
+  "homepage": "https://github.com/WuLyon/PostCssDemo#readme",
+  "devDependencies": {
+    "autoprefixer": "^7.1.2",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "stylelint": "^8.0.0"
+  }
+}
